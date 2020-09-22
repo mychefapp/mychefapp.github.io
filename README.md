@@ -1,7 +1,5 @@
 # Welcome to MyChef
 
-!:[MyChef video](https://www.youtube.com/watch?v=ScMzIvxBSi4)
-
 ## Why choose MyChef? 
 * MyChef is easy to learn and use, while also providing many different features 
 * MyChef will take your input of ingredients, and show you the many possibilities of recipes right at your fingertips 
