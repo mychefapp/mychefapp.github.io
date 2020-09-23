@@ -1,1 +1,9 @@
-#Group bios go here
+# The Team 
+
+## Kevin Baker 
+
+## Marlee Bryant 
+
+## Erik Mortimer 
+
+## Andrew Sartor
