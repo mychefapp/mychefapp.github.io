@@ -1,4 +1,4 @@
-[Group Bios](https://mychefapp.github.io/group_bios/){: .btn}
+{% include button.html url="https://mychefapp.github.io/group_bios/" %}
 
 # Welcome to MyChef
 
