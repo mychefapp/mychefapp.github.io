@@ -14,3 +14,4 @@ Erik is a Senior Undergrad Student at the University of Alabama studying Compute
 
 ## Andrew Sartor
 (Image goes here)
+Andrew is a Senior at the University of Alabama pursuing his Bachelor's degree in Computer Science. His hobbies include language learning and cooking. His passion for learning about language and cultures inspired his interest in cooking, as he enjoys experimenting with the cuisine of many foreign countires.
