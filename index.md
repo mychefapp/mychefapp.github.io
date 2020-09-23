@@ -1,4 +1,4 @@
-<button name="button" onclick="https://mychefapp.github.io/group_bios/">Group Bios</button>
+[Group Bios](https://mychefapp.github.io/group_bios/){: .btn}
 
 # Welcome to MyChef
 
