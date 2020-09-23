@@ -1,4 +1,4 @@
-[Group Bios](https://mychefapp.github.io/group_bios/){: .btn}
+[Group Bios](https://mychefapp.github.io/group_bios/)  [Project Details](https://mychefapp.github.io/project_details/)
 
 # Welcome to MyChef
 
