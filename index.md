@@ -1,4 +1,4 @@
-{% include button.html url="http://www.google.com" %}
+<button name="button" onclick="https://mychefapp.github.io/group_bios/">Group Bios</button>
 
 # Welcome to MyChef
 
