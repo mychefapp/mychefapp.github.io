@@ -2,7 +2,7 @@
 # The Team 
 
 ## Kevin Baker 
-![Kevin Baker](./assets/Kevin_Pic.PNG)
+![Kevin Baker](./assets/Kevin_Pic.png)
 
 Kevin is a Senior attending the University of Alabama pursuing a degree in Computer Science. In his downtime, he enjoys streaming videogames and wokring out. An interest in computers as a child lead to a later interest in programming, and his father sparked an interest in food and cooking. 
 ## Marlee Bryant 
