@@ -7,8 +7,9 @@ Kevin is a Senior attending the University of Alabama pursuing a degree in Compu
 ## Marlee Bryant 
 (Image goes here)
 
+Marlee is a Senior attending the University of Alabama pursuing a Bachelor's degree in Computer Science and a member of the Accelerated Master's Program pursuing a Matser's in Computer Science. She enjoys being creative and finds a way to express that in painting, coding, and cooking. Being from the South, she's an expert at cooking Southern dishes.
 ## Erik Mortimer 
-![Erik Mortimer](./assets/erik_pic.jpg)
+![Erik Mortimer](./assets/erik_pic.jpg =250x)
 
 Erik is a Senior Undergrad Student at the University of Alabama studying Computer Science. Music is a big part of his life as he does Music Production and playing different instruments as some of his hobbies. Technology and cooking has always been a big passion for Erik ever since he was younger as well. 
 
