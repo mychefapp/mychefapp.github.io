@@ -8,7 +8,7 @@ Kevin is a Senior attending the University of Alabama pursuing a degree in Compu
 (Image goes here)
 
 ## Erik Mortimer 
-![Erik Mortimer](./assets/erik_pic.jpg =250x)
+![Erik Mortimer](./assets/erik_pic.jpg)
 
 Erik is a Senior Undergrad Student at the University of Alabama studying Computer Science. Music is a big part of his life as he does Music Production and playing different instruments as some of his hobbies. Technology and cooking has always been a big passion for Erik ever since he was younger as well. 
 
