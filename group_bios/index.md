@@ -1,4 +1,5 @@
-[Home](https://mychefapp.github.io/)
+[Home](https://mychefapp.github.io/) | [Group Bios](https://mychefapp.github.io/group_bios/) | [Project Deliverables](https://mychefapp.github.io/project_details/)
+
 # The Team 
 
 ## Kevin Baker 
