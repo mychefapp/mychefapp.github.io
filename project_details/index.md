@@ -4,7 +4,7 @@
 ## Presentations
 - [Sprint 1 Presentation](./assets/sprint1/Presentation.pdf)
 - [Sprint 2 Presentation](./assets/sprint2/Presentation.pdf)
-- [Sprint 3 Presentation]()
+- [Sprint 3 Presentation](./assets/sprint3/Presentation.pdf)
 
 
 ## Delivered Documents
@@ -31,4 +31,4 @@
 - [MyChef Ruby on Rails Source](https://github.com/atSartor/mychef-web)
 
 ## Link to .apk file
-- TODO: add link to file .apk file
+- [.apk File Download](https://drive.google.com/file/d/1WnTYaTzf9IMJgTYPDej2d1dZ4bVKODGS/view?usp=sharing)
