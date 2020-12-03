@@ -19,9 +19,9 @@
 - [Sprint 2 Retrospective](./assets/sprint2/Retrospective.pdf)
 
 ### Sprint 3
-- [Daily Meeting]()
-- [Sprint 3 Goal Backlog]()
-- [Sprint 3 Retrospective]()
+- [Daily Meeting](./assets/sprint3/DailyMeeting.pdf)
+- [Sprint 3 Goal Backlog](./assets/sprin3/GoalBacklog.pdf)
+- [Sprint 3 Retrospective](./assets/sprint3/Retrospective.pdf)
 
 ## Source Code
 ### Android App (Frontend)
