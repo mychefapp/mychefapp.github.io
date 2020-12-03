@@ -11,4 +11,4 @@
 * Not only will MyChef tell you what recipes you can make from your ingredients, it will also assemble a shopping list for you based on what ingredients are necessary for the recipe
 * MyChef will also provide measurements conversions, as some measurements may not be standard in different places 
 
-<iframe width="560" height="315" src="https://youtu.be/AaUd7LJxInc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AaUd7LJxInc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
