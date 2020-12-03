@@ -1,6 +1,8 @@
 [Home](https://mychefapp.github.io/) | [Group Bios](https://mychefapp.github.io/group_bios/) | [Project Deliverables](https://mychefapp.github.io/project_details/)
 
 # Project Deliverables
+- [Project Backlog](./assets/ProjectBacklog.xlsx)
+
 ## Presentations
 - [Sprint 1 Presentation](./assets/sprint1/Presentation.pdf)
 - [Sprint 2 Presentation](./assets/sprint2/Presentation.pdf)
